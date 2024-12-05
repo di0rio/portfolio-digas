@@ -13,7 +13,7 @@ export default {
           tech: "VueJS 3, Tailwind",
           github:
             "https://github.com/di0rio/portfolio-digas?tab=readme-ov-file",
-          demo: "https://bagasrakha.netlify.app/",
+          demo: "https://portfolio-digas.vercel.app/about",
         },
         {
           id: 2,
@@ -45,7 +45,7 @@ export default {
           github:
             "https://github.com/di0rio/Aquaguardians/tree/main/front-end/Sistema/Client",
           demo: "https://systemaqg.vercel.app/",
-        }
+        },
         // {
         //   id: 5,
         //   name: "SP2SE",
