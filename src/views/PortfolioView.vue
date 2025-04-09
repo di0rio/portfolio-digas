@@ -46,16 +46,27 @@ export default {
             "https://github.com/di0rio/Aquaguardians/tree/main/front-end/Sistema/Client",
           demo: "https://systemaqg.vercel.app/",
         },
-        // {
-        //   id: 5,
-        //   name: "SP2SE",
-        //   imageUrl: "sp2se",
-        //   status:
-        //     "Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.",
-        //   tech: "Codeigniter 3, Bootstrap",
-        //   github: "null",
-        //   demo: "null",
-        // },
+        {
+          id: 5,
+          name: "Casa de Flores",
+          imageUrl: "sp2se",
+          status:
+            "A minimalist website aimed at selling decorative plants. With a clean and attractive design, it presents a selection of plants focusing on well-being and interior decoration.The homepage invites the user to subscribe to a newsletter.",
+          tech: "ReactVite, css, js",
+          github:
+            "https://github.com/di0rio/7DaysOfCode/tree/main/React/ClientFlores",
+          demo: "https://7-days-of-code-five.vercel.app/",
+        },
+        {
+          id: 6,
+          name: "Personal Website",
+          imageUrl: "portfolio_v1",
+          status:
+            "It is an application with modern look and dark interface, aimed at managing daily tasks. It allows you to create new tasks, track progress with a visual bar, and view both active and completed tasks. The layout is minimalist and functional, with emphasis on usability and personal organization. Social media icons at the top suggest integration with public profiles or sharing.",
+          github:
+            "https://github.com/di0rio/dev-list",
+          demo: "https://drag-and-drop-u4vp.vercel.app/",
+        },
       ],
     };
   },

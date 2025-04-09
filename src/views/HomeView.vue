@@ -1,6 +1,6 @@
 <template>
   <main
-    class="mt-10 md:mt-1 flex flex-col-reverse gap-8 items-center md:flex-row md:gap-16 md:justify-center min-h-[65vh] md:min-h-[80vh]">
+    class="flex flex-col-reverse gap-8 items-center md:flex-row md:gap-16 md:justify-center min-h-[30vh] md:min-h-[60vh]">
     <div class="space-y-2 text-center md:text-left px-10">
       <p class="text-purple-200">Hello World, I'm</p>
       <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">di0rio</h1>
@@ -24,8 +24,8 @@
           </path>
         </svg>Download Resume</button> -->
     </div>
-    <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-purple-200 pict" src="../assets/avatar.jpg">
+    <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="500" height="500" decoding="async" data-nimg="1"
+        class="w-12/12 md:h-auto rounded-full border-4 border-purple-200 pict" src="../assets/avatar.jpg">
     </div>
   </main>
 </template>
